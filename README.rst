@@ -165,3 +165,5 @@ Troubleshooting
 - ``IOError: 'Command Failed'``
 
   This error means that PDFKit was unable to process an input. You can try to directly run a command from error message and see what error caused failure (on some wkhtmltopdf versions this can be cause by segmentation faults)
+
+Thanks...
